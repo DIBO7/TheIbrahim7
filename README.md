@@ -9,14 +9,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a new startup which will not fail like the ones in the past. I know I said this the last time but this it is true. 
-PS: I also said that the last time
+- 🔭 I’m currently working on a new startup (which will not fail like the ones in the past). I know I said this the last time but this it is true. 
+PS: I also said that the last time!!
 
-- 🌱 I’m currently learning - Machine Learning fro Prof. Andrew Ng
+- 🌱 I’m currently learning - Machine Learning from Prof. Andrew Ng
 
-- 👯 I’m looking to collaborate on - Projects that I can utilize my python, Javascript, Django, ReactJS or newly acquired machine learning skills and improve my competency of course.
+- 👯 I’m looking to collaborate on - projects that I can utilize my python, Javascript, Django, ReactJS or newly acquired machine learning skills and improve my competency of course.
 
-- 🤔 I’m looking for help with quite a number of things. **I really need a mentor**
+- 🤔 I’m looking for help with quite a number of things. **I want a mentor** (remote also works)!
 
 - 💬 Ask me about Django, ReactJs or tech related stuff. You can also ask me about the maritime industry. I am a seafarer. programming is my side thing but I love it som much, I do it almost every time. PS: If you need help with Django or React, I should be able to help you out.
 
