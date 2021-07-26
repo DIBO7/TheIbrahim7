@@ -18,7 +18,7 @@ PS: I also said that the last time!!
 
 - 🤔 I’m looking for help with quite a number of things. **I want a mentor** (remote also works)!
 
-- 💬 Ask me about Django, ReactJs or tech related stuff. You can also ask me about the maritime industry. I am a seafarer. programming is my side thing but I love it som much, I do it almost every time. PS: If you need help with Django or React, I should be able to help you out.
+- 💬 Ask me about Django, ReactJs or tech related stuff. You can also ask me about the maritime industry. I am a seafarer. programming is my side thing but I love it so much, I do it almost every time. PS: If you need help with Django or React, I should be able to help you out.
 
 - 📫 How to reach me: [on my twitter](https://www.twitter.com/TheIbrahim_O), [my linkedin](https://www.linkedin.com/in/ibrahim-oduola), or via [my personal website](https://theibrahim.herokuapp.com)
 
