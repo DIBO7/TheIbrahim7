@@ -20,7 +20,7 @@ PS: I also said that the last time!!
 
 - 💬 Ask me about Django, ReactJs or tech related stuff. You can also ask me about the maritime industry. I am a seafarer. programming is my side thing but I love it so much, I do it almost every time. PS: If you need help with Django or React, I should be able to help you out.
 
-- 📫 How to reach me: [on my twitter](https://www.twitter.com/TheIbrahim_O), [my linkedin](https://www.linkedin.com/in/ibrahim-oduola), or via [my personal website](https://theibrahim.herokuapp.com)
+- 📫 How to reach me: [on my twitter](https://www.twitter.com/TheIbrahim_O), [my linkedin](https://www.linkedin.com/in/ibrahim-oduola), or via [my personal website](https://theibrahim.vercel.app/)
 
 - ⚡ Fun fact: **I HAVE NEVER BEEN HACKED!** Can you believe that? Twitter and the big techs can't say that for sure! 🤣
 
@@ -29,6 +29,6 @@ PS: I also said that the last time!!
 
 ---
 
-### 📕 ➡️ [checkout my blog...](https://theibrahim.herokuapp.com/blog/)
+### 📕 ➡️ [checkout my blog...](https://theibrahim.vercel.app/blog/)
 
 ---
