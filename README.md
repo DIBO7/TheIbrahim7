@@ -4,7 +4,7 @@
 
 ---
 
-## I'm a 23 year old self-taught (python & Javascript) programmer!!
+## I'm a 25 year old self-taught (python & Javascript) programmer!!
 
 
 Here are some ideas to get you started:
